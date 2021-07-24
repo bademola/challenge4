@@ -4,3 +4,4 @@ In this challenge we were asked to determine which investment portfolio is bette
 
 # Findings
 
+![](fund_sharpe.png)
